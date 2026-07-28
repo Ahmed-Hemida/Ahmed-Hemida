@@ -88,7 +88,7 @@ Software Engineer with **5 years of experience** in backend and full-stack devel
 - Refactored legacy codebases to modern Spring Boot standards; built a Spring Batch bill-notification system
 - Built Money Market Fund (MMF) integration modules with CICapital (onboarding, balances, deposits, callbacks)
 
-**PHP Software Engineer** — Ergasti Agency — *Apr 2023 – Sept 2023*
+** Software Engineer** — Ergasti Agency — *Apr 2023 – Sept 2023*
 - Integrated QNB Bank and Paymob payment gateways for secure online transactions
 - Built booking/scheduling systems for car classes and installation services
 - Developed automated email notifications and synced orders/customer data via REST APIs
@@ -98,7 +98,7 @@ Software Engineer with **5 years of experience** in backend and full-stack devel
 - Integrated PayTabs and MintRoute payment gateways; refactored legacy payment flows
 - Built user permission/subscription management systems and SEO/RSS integrations
 
-**PHP Software Engineer** — HarfOnline (Education) — *Jan 2020 – Feb 2022*
+** Freelance Software Engineer** — HarfOnline (Education) — *Jan 2020 – Feb 2022*
 - Architected scalable account management, authentication, and RBAC authorization systems
 - Built administrative dashboards/reporting tools and contributed to ERP module development
 
